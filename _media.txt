@@ -1,5 +1,4 @@
 $$$Videos_im_gleichen_Verzeichnis$$$
-$$$---Videos_als_GIF_benennen$$$
 $$$UrlBilder$$$	
 $$$UrlVideos$$$	
 $$$VerzVideos$$$	
